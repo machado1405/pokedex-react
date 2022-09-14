@@ -1,0 +1,12 @@
+.form {
+  position: absolute;
+  width: 65%;
+  top: 65%;
+  left: 13.5%;
+}
+
+.buttons {
+  margin-top: 2rem;
+  display: flex;
+  gap: 20px;
+}
